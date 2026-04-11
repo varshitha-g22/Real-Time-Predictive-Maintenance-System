@@ -127,7 +127,9 @@ This creates a realistic closed-loop environment for control validation.
 | Logic| | Ctrl | | Monitoring  |
 +------+ +------+ +-------------+
 ```
+## Architecture Diagram
 
+![Architecture Diagram](architecture_diagram.png)
 ---
 
 ## Technical Highlights
