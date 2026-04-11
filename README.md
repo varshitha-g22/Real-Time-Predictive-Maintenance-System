@@ -80,6 +80,10 @@ Benefits:
 
 ---
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/51812f63-80f3-43da-b5ab-225bcdf8227b" />
+
+
 ### Adaptive Predictive Threshold Logic
 
 Instead of fixed alarm thresholds, the framework continuously learns operating conditions and dynamically adjusts predictive limits.
@@ -180,6 +184,10 @@ Real industrial actuators rarely switch instantaneously. FSM modeling allows:
 * Multi-Node Distributed Monitoring Architecture
 
 ---
+
+
+## Presentation
+- [Project Presentation](presentations/predictive-maintenance-presentation.pptx)
 
 ## Repository Structure
 
